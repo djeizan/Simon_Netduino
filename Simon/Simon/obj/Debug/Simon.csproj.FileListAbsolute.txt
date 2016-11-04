@@ -1,0 +1,60 @@
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\obj\Debug\TinyCLR_DebugReferences.cache
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\le\Simon.exe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\be\Simon.exe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\le\Simon.pdb
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\be\Simon.pdb
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\Simon.exe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\Simon.pdb
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\le\Simon.pe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\le\Simon.pdbx
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\be\Simon.pe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\be\Simon.pdbx
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\SecretLabs.NETMF.Hardware.dll
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\obj\Debug\be\Simon.pe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\obj\Debug\be\Simon.pdbx
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\obj\Debug\le\Simon.pe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\obj\Debug\le\Simon.pdbx
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\obj\Debug\Simon.exe
+c:\users\jaison\documents\visual studio 2010\Projects\Simon\Simon\obj\Debug\Simon.pdb
+C:\Users\Jaison\documents\visual studio 2010\Projects\Simon\Simon\obj\Debug\Simon.csprojResolveAssemblyReference.cache
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\le\Simon.exe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\be\Simon.exe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\le\Simon.pdb
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\be\Simon.pdb
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\Simon.exe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\Simon.pdb
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\le\Simon.pe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\le\Simon.pdbx
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\be\Simon.pe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\be\Simon.pdbx
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\obj\Debug\Simon.csprojResolveAssemblyReference.cache
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\obj\Debug\be\Simon.pe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\obj\Debug\be\Simon.pdbx
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\obj\Debug\le\Simon.pe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\obj\Debug\le\Simon.pdbx
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\obj\Debug\Simon.exe
+C:\Users\Djeizan\OneDrive\Projetos\Simon\Simon\obj\Debug\Simon.pdb
